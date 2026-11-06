@@ -3,9 +3,9 @@
 > **One token. Two chains. One click. The twin-listing protocol for Solana & Elysium.**
 
 <div align="center">
-  [![Contract Address](https://img.shields.io/badge/Contract-Solana-green?style=for-the-badge)](https://pump.fun/)
+  [![Contract Address](https://img.shields.io/badge/Contract-Solana-green?style=for-the-badge)](https://pump.fun/coin/3YuHBm4oeb3tmsixZd72LmedMEAM5ttBMuwCBxSMpump/coin/3YuHBm4oeb3tmsixZd72LmedMEAM5ttBMuwCBxSMpump)
   [![Ticker](https://img.shields.io/badge/Ticker-%24BIFROST-blue?style=for-the-badge)](#)
-  [![Platform](https://img.shields.io/badge/Venue-Solana%20%C3%97%20Elysium-brightgreen?style=for-the-badge)](https://pump.fun/)
+  [![Platform](https://img.shields.io/badge/Venue-Solana%20%C3%97%20Elysium-brightgreen?style=for-the-badge)](https://pump.fun/coin/3YuHBm4oeb3tmsixZd72LmedMEAM5ttBMuwCBxSMpump/coin/3YuHBm4oeb3tmsixZd72LmedMEAM5ttBMuwCBxSMpump)
 </div>
 
 ---
@@ -18,7 +18,7 @@
 | **Ticker** | **$BIFROST** |
 | **Primary Network** | Solana |
 | **Twin Network** | Elysium |
-| **Launch Venue (Leg 1)** | [Pump.fun on Solana](https://pump.fun) |
+| **Launch Venue (Leg 1)** | [Pump.fun on Solana](https://pump.fun/coin/3YuHBm4oeb3tmsixZd72LmedMEAM5ttBMuwCBxSMpump) |
 | **Launch Venue (Leg 2)** | [Obol / Kleos / BOXA / BifrostHook on Elysium](https://obol.world/launch) |
 | **Official Website** | `bifrostpad.com` |
 

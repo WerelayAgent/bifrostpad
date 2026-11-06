@@ -1,0 +1,20 @@
+{
+  "name": "bifrostpad",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BifrostPad · One token, two chains, one click. Twin-listing protocol for Robinhood Chain & Elysium.",
+  "scripts": {
+    "start": "serve -s . -l 3000"
+  },
+  "keywords": [
+    "bifrost",
+    "bifrostpad",
+    "twin-listing",
+    "robinhood-chain",
+    "elysium",
+    "launchpad",
+    "defi"
+  ],
+  "author": "WerelayAgent",
+  "license": "Apache-2.0"
+}

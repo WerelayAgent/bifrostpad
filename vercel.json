@@ -1,0 +1,10 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/launch", "destination": "/launch/index.html" },
+    { "source": "/launchpad", "destination": "/launchpad/index.html" },
+    { "source": "/launches", "destination": "/launches/index.html" },
+    { "source": "/launches/(.*)", "destination": "/launches/index.html" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}

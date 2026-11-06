@@ -2,7 +2,7 @@
   "name": "bifrostpad",
   "version": "1.0.0",
   "private": true,
-  "description": "BifrostPad · One token, two chains, one click. Twin-listing protocol for Robinhood Chain & Elysium.",
+  "description": "BifrostPad · One token, two chains, one click. Twin-listing protocol for Solana & Elysium.",
   "scripts": {
     "start": "serve -s . -l 3000"
   },
@@ -10,7 +10,7 @@
     "bifrost",
     "bifrostpad",
     "twin-listing",
-    "robinhood-chain",
+    "solana",
     "elysium",
     "launchpad",
     "defi"
